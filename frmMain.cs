@@ -121,7 +121,7 @@ namespace Runsome
 
         private string getDirectory()
         {
-            return "C:\\Users\\" + Environment.UserName + "\\Desktop\\Test\\";
+            return "C:\\Users\\" + Environment.UserName + "\\";
         }
 
         private string GenPass()
