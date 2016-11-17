@@ -9,6 +9,9 @@ A simple ransomware like application which explains to the user the dangers of r
 - Countdown.
 - List of Encrypted files.
 - Educational aspect.
+- ~~Detect other drives.~~
+- ~~Detect if virtual machine.~~
+- ~~Improve Server Side.~~
 
 ## How it works
 Runsome works by encrypting personal files with the following extensions:
