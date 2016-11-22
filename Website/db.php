@@ -1,0 +1,17 @@
+<?php
+// Server Credentials :: CHANGE THIS!
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "users";
+$ip = $_SERVER['REMOTE_ADDR'];
+
+// Create connection
+$conn = new mysqli($servername, $username, $password);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
+//echo "Connected successfully.";
+?>
