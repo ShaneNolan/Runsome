@@ -32,6 +32,8 @@ Once the decryption process ends, Runsome removes itself from startup and termin
 
 ## Video Demonstration
 [Video via Sendvid](https://sendvid.com/cmec6zw4?play=true).
+
+## News Articles
 [Article via BleepingComputer](https://www.bleepingcomputer.com/news/security/koolova-ransomware-decrypts-for-free-if-you-read-two-articles-about-ransomware/).  
 [Article via TheHackerNews](http://thehackernews.com/2017/01/decrypt-ransomware-files.html).  
 
